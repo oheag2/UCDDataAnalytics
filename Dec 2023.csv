@@ -1,0 +1,73 @@
+Report job ID,14558363192,,,,,,,
+Date/Time generated,19 April 2024 12:17:24 BST,,,,,,,
+Publisher network name,RTE - DFP EMEA,,,,,,,
+User,gillian.ohea@rte.ie,,,,,,,
+Date range,01-Dec-2023 - 31-Dec-2023,,,,,,,
+PQL query statement, where ((order_id in (2223001337) and not (creative_size in ('300 x 250'))) and creative_technology in (4)),,,,,,,
+Report type,Historical,,,,,,,
+,,,,,,,,
+Creative,Line Item,Creative Technology,Creative ID,Line item ID,Creative Technology ID,Delivery Indicator,Ad server impressions,Ad server clicks
+AAA_Dec_Kids Christmas 2023 (copy),Sky STB Syndication Player Promos  - ROS,Video,732641369,6347311116,4,N/A,"1,832",0
+AAA_Dec_RTE Player Christmas Comp (copy),Sky STB Syndication Player Promos  - ROS,Video,732641372,6347311116,4,N/A,"1,921",0
+AAA_Nov_Patrick A Young Traveller (copy),Sky STB Syndication Player Promos  - ROS,Video,732508469,6347311116,4,N/A,"2,401",0
+AAA_Nov_The Gone boxset (copy),Sky STB Player Promos - Audience 2,Video,732508535,6407114359,4,N/A,"1,867",0
+Blue Lights,Player Promos - Audience 2,Video,732192928,6404814183,4,N/A,"486,613",876
+Christmas on RTE,Player Promos - ROS,Video,732500702,5386709211,4,N/A,"12,009",41
+Clean Sweep,Player Promos - ROS,Video,732121267,5386709211,4,N/A,"40,875",99
+Crime,Player Promos - Audience 2,Video,732133285,6404814183,4,N/A,"486,978",889
+Finding Samantha,Player Promos - ROS,Video,732121699,5386709211,4,N/A,"41,060",105
+Gossip Girl,Player Promos - ROS,Video,732121303,5386709211,4,N/A,"40,743",100
+Happy Valley,Player Promos - ROS,Video,732120943,5386709211,4,N/A,"41,033",93
+Hidden Assets Boxset,Player Promos - ROS,Video,731934501,5386709211,4,N/A,"26,436",81
+Irelands Perfect Pubs,Player Promo ROS - Irelands Perfect Pubs *Alcohol content*,Video,732114829,6404848707,4,N/A,"39,488",99
+Irish Language Campaign The Vets,Player Promos - ROS,Video,732123534,5386709211,4,N/A,"40,528",109
+Love and Death,Player Promos - Audience 2,Video,732252814,6404814183,4,N/A,"486,327",808
+Love in the Country,Player Promos - Audience 5,Video,732253046,6407653901,4,N/A,"157,095",409
+Luther,Player Promos - Audience 3,Video,732240524,6404814369,4,N/A,949,13
+Man Vs Ocean,Player Promos - Audience 1,Video,732562364,6407652467,4,N/A,"45,178",45
+Normal People,Player Promos - ROS,Video,732241508,5386709211,4,N/A,"41,015",128
+Obituary,Player Promos - ROS,Video,731921765,5386709211,4,N/A,"26,468",40
+Obituary,Player Promos - Audience 4,Video,732121866,6404814468,4,N/A,"64,958",75
+Patrick a Young Traveller Lost,Player Promos - ROS,Video,732489380,5386709211,4,N/A,"14,222",53
+SKY_AAA_Nov_TVL Investigates (copy),Sky STB Syndication Player Promos  - ROS,Video,732409800,6347311116,4,N/A,"4,739",0
+SKY_AAA_Nov_TVL Investigates Irish (copy),Sky STB Syndication Player Promos  - ROS,Video,732409512,6347311116,4,N/A,"4,628",0
+SKY_AAA_Nov_TVL Kids (copy),Sky STB Syndication Player Promos  - ROS,Video,732409704,6347311116,4,N/A,"4,549",0
+SKY_AAA_Nov_TVL Kids Irish (copy),Sky STB Syndication Player Promos  - ROS,Video,732409707,6347311116,4,N/A,"4,567",0
+SKY_NoV_LUTHER (copy),Sky STB Player Promos - Audience 3,Video,732508739,6407114353,4,N/A,"3,972",0
+SKY_Nov_BLUE LIGHTS (copy),Sky STB Player Promos - Audience 2,Video,732497228,6407114359,4,N/A,"16,923",0
+SKY_Nov_Crime (copy),Sky STB Player Promos - Audience 2,Video,732509108,6407114359,4,N/A,"17,812",0
+SKY_Nov_Irelands Perfect Pubs (copy), - SKY STB - Irelands Perfect Pubs *Alcohol content* Player Promo -,Video,732508679,6419404689,4,N/A,"10,993",0
+SKY_Nov_LOVE AND DEATH (copy),Sky STB Player Promos - Audience 2,Video,732395100,6407114359,4,N/A,"17,786",0
+SKY_Nov_Love in the Country (copy),Sky STB Player Promos - Audience 5,Video,732395121,6407795201,4,N/A,"9,472",0
+SKY_Nov_Obituary (copy),Sky STB Player Promos - Audience 4,Video,732508712,6407114344,4,N/A,"8,193",0
+SKY_Nov_THE NOBODY ZONE 15 (copy),Sky STB Player Promos - Audience 1,Video,732508196,6407114341,4,N/A,"13,130",0
+Six Four,Player Promos - ROS,Video,732241724,5386709211,4,N/A,"40,931",140
+Sky_AAA_December_MAN vs OCEAN PreRoll (copy),Sky STB Player Promos - Audience 1,Video,732642182,6407114341,4,N/A,"4,264",0
+Sky_AAA_January_Powered_By_Community_2023 (copy),Sky STB Syndication Player Promos  - ROS,Video,732545904,6347311116,4,N/A,1,0
+Sky_AAA_January_Powered_By_Irish_Language_2023 (copy),Sky STB Syndication Player Promos  - ROS,Video,732545895,6347311116,4,N/A,1,0
+Sky_AAA_Nov-Dec_Clean Sweep preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732220027,6347311116,4,N/A,"5,184",0
+Sky_AAA_Nov-Dec_Finding Samantha Preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732219610,6347311116,4,N/A,"5,558",0
+Sky_AAA_Nov-Dec_Gossip Girl Preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732220033,6347311116,4,N/A,"4,992",0
+Sky_AAA_Nov-Dec_Happy Valley Boxset 15 (copy),Sky STB Syndication Player Promos  - ROS,Video,732219598,6347311116,4,N/A,"5,151",0
+Sky_AAA_Nov-Dec_Irish language vets (copy),Sky STB Syndication Player Promos  - ROS,Video,732219601,6347311116,4,N/A,"4,605",0
+Sky_AAA_Nov-Dec_Normal People preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732220036,6347311116,4,N/A,"4,418",0
+Sky_AAA_Nov-Dec_Six Four Preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732219604,6347311116,4,N/A,"4,577",0
+Sky_AAA_Nov-Dec_THE NEWSREADER PreRoll (copy),Sky STB Syndication Player Promos  - ROS,Video,732218739,6347311116,4,N/A,"4,569",0
+Sky_AAA_Nov-Dec_TVL Evader GRMA (copy),Sky STB Syndication Player Promos  - ROS,Video,732219616,6347311116,4,N/A,"4,671",0
+Sky_AAA_Nov-Dec_TVL Evader Thanks (copy),Sky STB Syndication Player Promos  - ROS,Video,732219613,6347311116,4,N/A,"4,699",0
+Sky_AAA_Nov-Dec_The Split Preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732219607,6347311116,4,N/A,"4,620",0
+Sky_AAA_Nov-Dec_UNFORGOTTEN 15 preroll (copy),Sky STB Syndication Player Promos  - ROS,Video,732220030,6347311116,4,N/A,"5,180",0
+Sky_AAA_November_RTEJr Podcasts preroll (copy)_WORKAROUND,Sky STB Syndication Player Promos  - ROS,Video,732088645,6347311116,4,N/A,"4,323",0
+Sky_AAA_October_HIDDEN ASSETS S2 PLAYER BOXSET 30 (copy)_WORKAROUND,Sky STB Syndication Player Promos  - ROS,Video,731963173,6347311116,4,N/A,"1,971",0
+Sky_AAA_September_OBITUARY PreRoll (copy)_WORKAROUND,Sky STB Syndication Player Promos  - ROS,Video,731947694,6347311116,4,N/A,"2,555",0
+THE NOBODY ZONE,Player Promos - Audience 1,Video,732311615,6407652467,4,N/A,"71,839",60
+TV Licence Investigates,Player Promos - ROS,Video,732395580,5386709211,4,N/A,"40,662",138
+TV Licence Kids,Player Promos - ROS,Video,732395577,5386709211,4,N/A,"40,934",104
+TV Licence Kids Irish,Player Promos - ROS,Video,732396303,5386709211,4,N/A,"40,635",111
+The Gone boxset Preroll.mp4,Player Promos - Audience 2,Video,732376129,6404814183,4,N/A,"485,716",868
+The Newsreader,Player Promos - ROS,Video,732241742,5386709211,4,N/A,"40,958",152
+The Split,Player Promos - ROS,Video,732123378,5386709211,4,N/A,"14,088",66
+The Split,Player Promos - ROS,Video,732123450,5386709211,4,N/A,"40,579",99
+Tv Licence Investigates Irish,Player Promos - ROS,Video,732396396,5386709211,4,N/A,"40,544",116
+Unforgotten,Player Promos - ROS,Video,732241553,5386709211,4,N/A,"40,389",97
+Total,,,,,,-,"3,185,374","6,014"
